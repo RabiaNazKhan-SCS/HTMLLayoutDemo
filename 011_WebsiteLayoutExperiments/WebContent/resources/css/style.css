@@ -1,0 +1,36 @@
+
+
+#header{
+	background-image:url("header.jpg");
+	background-size: 1314px 136px;
+	font-family: Forte;
+	text-align: left;
+	padding-left:1cm;
+	color: White;
+	margin-top:-5px;
+	margin-left:-9px;
+}
+
+#nav{
+	background-color: #38707F;
+	width: 200px;
+	height: 600px; 
+	float:left;
+	padding-left:5px;
+	color:White;
+	margin-left:-9px;
+	margin-top:-22px;
+}
+#section{
+	width:1127px;
+	padding-left:10px;
+	height:600px;
+	margin-left:10px;
+	
+}
+#footer{
+	background-color: #38707F;
+	color: White;
+	margin-top:-37px;
+	margin-left:-9px;
+}
